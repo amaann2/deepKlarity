@@ -7,7 +7,7 @@
 .testimonial-card {
     background-color: white;
     display: flex;
-    width: 90%;
+    width: 100%;
     margin: 4rem 1rem;
     padding: 4rem;
     border-radius: 6px;
@@ -59,8 +59,7 @@
 }
 
 .swiper-slide {
-    filter: grayscale(100%);
-    filter: blur(1.5px);
+    filter: opacity(30%);
 }
 
 .swiper-pagination-bullet-active {
