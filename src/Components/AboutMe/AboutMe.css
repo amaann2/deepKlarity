@@ -1,0 +1,9 @@
+.skill-progressBar {
+    /* padding: 1rem 0; */
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.skill-progressBar h2 {
+    padding: 1rem 0;
+}
