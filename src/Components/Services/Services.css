@@ -6,6 +6,7 @@
     background-color: #dfdfdf;
     padding: 1.1rem;
     border-radius: 10px;
+    min-height: 180px;
 }
 
 .service-icon {
